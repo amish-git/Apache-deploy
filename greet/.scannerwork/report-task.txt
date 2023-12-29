@@ -1,0 +1,6 @@
+projectKey=SonarQubeDemo
+serverUrl=http://192.168.1.79:9000
+serverVersion=9.3.0.51899
+dashboardUrl=http://192.168.1.79:9000/dashboard?id=SonarQubeDemo
+ceTaskId=AX8Fe8kDRvWsLYGmXB_U
+ceTaskUrl=http://192.168.1.79:9000/api/ce/task?id=AX8Fe8kDRvWsLYGmXB_U
